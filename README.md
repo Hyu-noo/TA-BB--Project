@@ -1,6 +1,6 @@
 ## TA-BB
 
-<img src="![tabb](https://github.com/user-attachments/assets/855ff8e9-5bbf-448e-a8c7-5326e6289d14)" width="300" height="300"/>
+<img src="![tabb](https://github.com/user-attachments/assets/855ff8e9-5bbf-448e-a8c7-5326e6289d14)." width="300" height="300"/>
 
 
 📣 팀장: 이현우
