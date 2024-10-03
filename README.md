@@ -1,18 +1,16 @@
-# tabb
+## TA-BB
 
-A new Flutter project.
+![tabb](https://github.com/user-attachments/assets/855ff8e9-5bbf-448e-a8c7-5326e6289d14)
 
-## Getting Started
+📣 팀장: 이현우
+🔔 팀원: 신민경, 이준화, 이정빈
 
-This project is a starting point for a Flutter application.
+## 프로젝트 소개 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# TA-BB
-# TA-BB--Project
+부산 시민의 또 다른 발, 부산시 공유 자전거 타삐 발표를 마치도록 하겠습니다. 
+
+## 개발 기술
+
+![Flutter Version](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
