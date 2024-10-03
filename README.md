@@ -1,7 +1,6 @@
 ## TA-BB
 
-![tabb](https://github.com/user-attachments/assets/855ff8e9-5bbf-448e-a8c7-5326e6289d14)
-
+<img src="![tabb](https://github.com/user-attachments/assets/855ff8e9-5bbf-448e-a8c7-5326e6289d14)" width="200" height="200"/>
 📣 팀장: 이현우
 🔔 팀원: 신민경, 이준화, 이정빈
 
